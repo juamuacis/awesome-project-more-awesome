@@ -1,4 +1,6 @@
 
+"""Bouncing Box Demo. Has all the classes."""
+
 import pygame
 from scene import BouncingBoxesScene
 import rgbcolors
